@@ -1,1 +1,2 @@
-# Natural-Language-Processing-COSE461-
+# Natural-Language-Processing-COSE461
+# Based on CS224N
